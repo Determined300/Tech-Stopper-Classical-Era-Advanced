@@ -110,7 +110,7 @@
 				"cost": 85,
 				"row": 1,
 				"prerequisites": ["Sailing"],
-				"uniques": ["Enables embarkation for land units"],
+				"uniques": ["Enables embarkation for land units","[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles"],
 				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
 			},
 			{
@@ -184,8 +184,7 @@
 	                       "name": "No further.",
 			       "row": 6,
 			       "prerequisites": ["Engineering","Philosophy","Drama and Poetry","Currency","Iron Working"],
-                               "uniques": ["[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles",
-			       "Can be continually researched"],
+                               "uniques": ["Can be continually researched"],
 			}
 		]
 	},
