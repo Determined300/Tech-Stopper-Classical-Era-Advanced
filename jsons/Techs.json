@@ -192,6 +192,41 @@
 	{
 		"columnNumber": 6,
 		"era": "Medieval era",
+		"techCost": 999275,
+		"buildingCost": 999120,
+		"wonderCost": 999300,
+		"techs": [
+			{
+				"name": "Theology",
+				"row": 2,
+				"prerequisites": ["No further."],
+				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
+			},
+			{
+				"name": "Civil Service",
+				"row": 5,
+				"prerequisites": ["No further."],
+				"uniques": ["Enables Open Borders agreements"],
+				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
+			},
+			{
+				"name": "Guilds",
+				"row": 7,
+				"prerequisites": ["No further."],
+				"uniques": ["Enables conversion of city production to [Gold]"],
+				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
+			},
+			{
+				"name": "Metal Casting",
+				"row": 9,
+				"prerequisites": ["No further."],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+			}
+		]
+	},
+	{
+		"columnNumber": 7,
+		"era": "Medieval era",
 		"techCost": 999485,
 		"buildingCost": 999160,
 		"wonderCost": 999400,
@@ -200,7 +235,7 @@
 				"name": "Compass",
 				"cost": 375,
 				"row": 1,
-				"prerequisites": ["You... shall not... PASS!!"],
+				"prerequisites": ["No further."],
 				"quote": "'I find the great thing in this world is not so much where we stand, as in what direction we are moving.' - Oliver Wendell Holmes"
 			},
 			{
@@ -238,7 +273,7 @@
 		]
 	},
 	{
-		"columnNumber": 7,
+		"columnNumber": 8,
 		"era": "Renaissance era",
 		"techCost": 799980,
 		"buildingCost": 999200,
@@ -278,7 +313,7 @@
 		]
 	},
 	{
-		"columnNumber": 8,
+		"columnNumber": 9,
 		"era": "Renaissance era",
 		"techCost": 199150,
 		"buildingCost": 999250,
@@ -317,7 +352,7 @@
 		]
 	},
 	{
-		"columnNumber": 9,
+		"columnNumber": 10,
 		"era": "Industrial era",
 		"techCost": 991600,
 		"buildingCost": 999300,
@@ -362,7 +397,7 @@
 		]
 	},
 	{
-		"columnNumber": 10,
+		"columnNumber": 11,
 		"era": "Industrial era",
 		"techCost": 239950,
 		"buildingCost": 999360,
@@ -396,7 +431,7 @@
 		]
 	},
 	{
-		"columnNumber": 11,
+		"columnNumber": 12,
 		"era": "Modern era",
 		"techCost": 993100,
 		"buildingCost": 999500,
@@ -435,7 +470,7 @@
 		]
 	},
 	{
-		"columnNumber": 12,
+		"columnNumber": 13,
 		"era": "Modern era",
 		"techCost": 499100,
 		"buildingCost": 999500,
@@ -468,7 +503,7 @@
 		]
 	},
 	{
-		"columnNumber": 13,
+		"columnNumber": 14,
 		"era": "Atomic era",
 		"techCost": 995100,
 		"buildingCost": 999500,
@@ -501,7 +536,7 @@
 		]
 	},
 	{
-		"columnNumber": 14,
+		"columnNumber": 15,
 		"era": "Atomic era",
 		"techCost": 996400,
 		"buildingCost": 999500,
@@ -534,7 +569,7 @@
 		]
 	},
 	{
-		"columnNumber": 15,
+		"columnNumber": 16,
 		"era": "Information era",
 		"techCost": 997700,
 		"buildingCost": 999750,
@@ -581,7 +616,7 @@
 	},
 
 	{
-		"columnNumber": 16,
+		"columnNumber": 17,
 		"era": "Information era",
 		"techCost": 998800,
 		"buildingCost": 999750,
@@ -620,7 +655,7 @@
 		]
 	},
 	{
-		"columnNumber": 17,
+		"columnNumber": 18,
 		"era": "Future era",
 		"techCost": 999500,
 		"buildingCost": 999750,
