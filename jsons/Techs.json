@@ -186,75 +186,11 @@
 			       "prerequisites": ["Engineering","Philosophy","Drama and Poetry","Currency","Iron Working"],
                                "uniques": ["[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles",
 			       "Can be continually researched"],
-
-
-
-
-
-
-		},
-	{
-		"columnNumber": 5,
-		"era": "Medieval era",
-		"techCost": 99999999999,
-		"buildingCost": 99999,
-		"wonderCost": 999999,
-		"techs": [
-			{
-				"name": "You... shall not... PASS!!",
-				"row": 6,
-				"prerequisites": ["Engineering","Philosophy","Drama and Poetry","Currency","Iron Working"],
-				"uniques": ["Only available <before discovering [Agriculture]>",
-					"And now... humanity shall stop inventing. All the science... to trash! May the world never progress any further! Muahahaha...",
-					"Can be continually researched"],
-				"quote": "NO! This isn't supposed how you play the game! You can't pass on from here, I won't allow you. No"
-			},
-			{
-				"name": "Science Campfire",
-				"row": 9,
-				"prerequisites": ["Engineering","Philosophy","Drama and Poetry","Currency","Iron Working"],
-				"uniques": ["And now... humanity shall stop inventing. All the science... to trash! May the world never progress any further! Muahahaha...",
-					"Can be continually researched"],
-			},
-		]
-	},
-	{
-		"columnNumber": 6,
-		"era": "Medieval era",
-		"techCost": 999275,
-		"buildingCost": 999120,
-		"wonderCost": 999300,
-		"techs": [
-			{
-				"name": "Theology",
-				"row": 2,
-				"prerequisites": ["You... shall not... PASS!!"],
-				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
-			},
-			{
-				"name": "Civil Service",
-				"row": 5,
-				"prerequisites": ["You... shall not... PASS!!"],
-				"uniques": ["Enables Open Borders agreements"],
-				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
-			},
-			{
-				"name": "Guilds",
-				"row": 7,
-				"prerequisites": ["You... shall not... PASS!!"],
-				"uniques": ["Enables conversion of city production to [Gold]"],
-				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
-			},
-			{
-				"name": "Metal Casting",
-				"row": 9,
-				"prerequisites": ["You... shall not... PASS!!"],
-				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			}
 		]
 	},
 	{
-		"columnNumber": 7,
+		"columnNumber": 6,
 		"era": "Medieval era",
 		"techCost": 999485,
 		"buildingCost": 999160,
@@ -302,7 +238,7 @@
 		]
 	},
 	{
-		"columnNumber": 8,
+		"columnNumber": 7,
 		"era": "Renaissance era",
 		"techCost": 799980,
 		"buildingCost": 999200,
@@ -342,7 +278,7 @@
 		]
 	},
 	{
-		"columnNumber": 9,
+		"columnNumber": 8,
 		"era": "Renaissance era",
 		"techCost": 199150,
 		"buildingCost": 999250,
@@ -381,7 +317,7 @@
 		]
 	},
 	{
-		"columnNumber": 10,
+		"columnNumber": 9,
 		"era": "Industrial era",
 		"techCost": 991600,
 		"buildingCost": 999300,
@@ -426,7 +362,7 @@
 		]
 	},
 	{
-		"columnNumber": 11,
+		"columnNumber": 10,
 		"era": "Industrial era",
 		"techCost": 239950,
 		"buildingCost": 999360,
@@ -460,7 +396,7 @@
 		]
 	},
 	{
-		"columnNumber": 12,
+		"columnNumber": 11,
 		"era": "Modern era",
 		"techCost": 993100,
 		"buildingCost": 999500,
@@ -499,7 +435,7 @@
 		]
 	},
 	{
-		"columnNumber": 13,
+		"columnNumber": 12,
 		"era": "Modern era",
 		"techCost": 499100,
 		"buildingCost": 999500,
@@ -532,7 +468,7 @@
 		]
 	},
 	{
-		"columnNumber": 14,
+		"columnNumber": 13,
 		"era": "Atomic era",
 		"techCost": 995100,
 		"buildingCost": 999500,
@@ -565,7 +501,7 @@
 		]
 	},
 	{
-		"columnNumber": 15,
+		"columnNumber": 14,
 		"era": "Atomic era",
 		"techCost": 996400,
 		"buildingCost": 999500,
@@ -598,7 +534,7 @@
 		]
 	},
 	{
-		"columnNumber": 16,
+		"columnNumber": 15,
 		"era": "Information era",
 		"techCost": 997700,
 		"buildingCost": 999750,
@@ -645,7 +581,7 @@
 	},
 
 	{
-		"columnNumber": 17,
+		"columnNumber": 16,
 		"era": "Information era",
 		"techCost": 998800,
 		"buildingCost": 999750,
@@ -684,7 +620,7 @@
 		]
 	},
 	{
-		"columnNumber": 18,
+		"columnNumber": 17,
 		"era": "Future era",
 		"techCost": 999500,
 		"buildingCost": 999750,
@@ -698,5 +634,5 @@
 				"quote": "'I think we agree, the past is over.' - George W. Bush"
 			}
 		]
-			}
-			
+	}
+]
