@@ -176,9 +176,9 @@
 	{
                 "columnNumber": 4,
 		"era": "Classical era",
-		"techCost": 175,
-		"buildingCost": 100,
-		"wonderCost": 250,
+		"techCost": 9999999999,
+		"buildingCost": 9999999999,
+		"wonderCost": 9999999999,
 		"techs": [
 			}
 	                       "name":
