@@ -203,6 +203,13 @@
 		"wonderCost": 999300,
 		"techs": [
 			{
+				"name": "Compass",
+				"cost": 375,
+				"row": 1,
+				"prerequisites": ["No further."],
+				"quote": "'I find the great thing in this world is not so much where we stand, as in what direction we are moving.' - Oliver Wendell Holmes"
+			},
+			{
 				"name": "Theology",
 				"row": 2,
 				"prerequisites": ["No further."],
@@ -237,13 +244,6 @@
 		"buildingCost": 999160,
 		"wonderCost": 999400,
 		"techs": [
-			{
-				"name": "Compass",
-				"cost": 375,
-				"row": 1,
-				"prerequisites": ["No further."],
-				"quote": "'I find the great thing in this world is not so much where we stand, as in what direction we are moving.' - Oliver Wendell Holmes"
-			},
 			{
 				"name": "Education",
 				"row": 3,
