@@ -155,7 +155,7 @@
 			},
 			{
 				"name": "Banking",
-				"row": 5,
+				"row": 4,
 				"prerequisites": ["Writing"],
 				"quote": "'Advanced Banking' - Classical"
 			},
@@ -328,7 +328,7 @@
 			{
 				"name": "Architecture",
 				"row": 4,
-				"prerequisites": ["Acoustics","Banking"],
+				"prerequisites": ["Acoustics"],
 				"quote": "'Architecture begins where engineering ends.' - Walter Gropius"
 			},
 			{
