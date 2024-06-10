@@ -156,7 +156,7 @@
 			{
 				"name": "Banking",
 				"row": 5,
-				"prerequisites": ["Horseback Riding"],
+				"prerequisites": ["Writing"],
 				"quote": "'Advanced Banking' - Classical"
 			},
 			{
@@ -190,7 +190,7 @@
 			{
 	                       "name": "No further.",
 			       "row": 6,
-			       "prerequisites": ["Engineering","Philosophy","Drama and Poetry","Currency","Iron Working"],
+			       "prerequisites": ["Engineering","Philosophy","Drama and Poetry","Banking","Currency","Iron Working"],
                                "uniques": ["Can be continually researched"],
 			}
 		]
@@ -334,7 +334,7 @@
 			{
 				"name": "Economics",
 				"row": 6,
-				"prerequisites": ["Banking","Printing Press"],
+				"prerequisites": ["Printing Press"],
 				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
 			},
 			{
