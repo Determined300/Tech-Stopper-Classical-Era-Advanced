@@ -154,6 +154,12 @@
 				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
 			},
 			{
+				"name": "Banking",
+				"row": 5,
+				"prerequisites": ["Horseback Riding"],
+				"quote": "'Advanced Banking' - Classical"
+			},
+			{
 				"name": "Currency",
 				"row": 7,
 				"prerequisites": ["Mathematics"],
