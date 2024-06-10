@@ -117,6 +117,7 @@
 				"name": "Horseback Riding",
 				"row": 5,
 				"prerequisites": ["Trapping","The Wheel"],
+				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
 			},
 			{
@@ -175,7 +176,7 @@
 	},
 	{
                 "columnNumber": 5,
-		"era": "Medieval era",
+		"era": "Classical era",
 		"techCost": 9999999999,
 		"buildingCost": 9999999999,
 		"wonderCost": 9999999999,
@@ -234,7 +235,7 @@
 				"name": "Compass",
 				"cost": 375,
 				"row": 1,
-				"prerequisites": ["No further."],
+				"prerequisites": ["Optics"],
 				"quote": "'I find the great thing in this world is not so much where we stand, as in what direction we are moving.' - Oliver Wendell Holmes"
 			},
 			{
