@@ -1,3 +1,14 @@
 [
   {
                "name": "Trireme",
+               "unitType": "Melee Water",
+		           "uniqueTo": "Athens",
+		           "movement": 4,
+		           "strength": 11,
+		           "cost": 45,
+		           "requiredTech": "Sailing",
+		           "uniques": ["Can enter ocean tiles", "Transfer Movement to [Epibatai]", "[+50]% Strength when stacked with [Hoplite]"],
+               "promotions": ["Boarding Party I", "Boarding Party II"],
+		           "upgradesTo": "Caravel",
+		           "obsoleteTech": "Astronomy",
+		           "attackSound": "nonmetalhit"
