@@ -2,7 +2,6 @@
   {
                "name": "Trireme",
                "unitType": "Melee Water",
-		           "uniqueTo": "Greece",
 		           "movement": 4,
 		           "strength": 11,
 		           "cost": 45,
