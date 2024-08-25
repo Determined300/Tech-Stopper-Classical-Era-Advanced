@@ -6,7 +6,7 @@
 		           "strength": 11,
 		           "cost": 45,
 		           "requiredTech": "Sailing",
-		           "uniques": ["Can enter ocean tiles", "Transfer Movement to [Hoplite]", "[+50]% Strength when stacked with [Hoplite]"],
+		           "uniques": ["Can enter ocean tiles"],
 		           "upgradesTo": "Caravel",
 		           "obsoleteTech": "Astronomy",
 		           "attackSound": "nonmetalhit",
