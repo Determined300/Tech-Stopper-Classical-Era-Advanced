@@ -189,7 +189,7 @@
 		"techs": [
 			{
 	                       "name": "No further.",
-			       "row": 6,
+			       "row": 11,
 			       "prerequisites": ["Engineering","Philosophy","Drama and Poetry","Banking","Currency","Iron Working"],
 		               "uniques": ["Can be continually researched","Blank tech for mod compatibility"],
 			}
