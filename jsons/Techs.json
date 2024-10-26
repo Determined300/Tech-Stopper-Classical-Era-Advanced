@@ -181,7 +181,7 @@
 		]
 	},
 	{
-                "columnNumber": 5,
+                "columnNumber": 6,
 		"era": "Classical era",
 		"techCost": 9999999999,
 		"buildingCost": 9999999999,
@@ -189,7 +189,7 @@
 		"techs": [
 			{
 	                       "name": "No further.",
-			       "row": 11,
+			       "row": 6,
 			       "prerequisites": ["Engineering","Philosophy","Drama and Poetry","Banking","Currency","Iron Working"],
 		               "uniques": ["Can be continually researched","Blank tech for mod compatibility"],
 			}
