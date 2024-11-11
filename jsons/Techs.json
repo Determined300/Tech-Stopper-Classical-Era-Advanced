@@ -181,7 +181,7 @@
 		]
 	},
 	{
-                "columnNumber": 6,
+                "columnNumber": 5,
 		"era": "Classical era",
 		"buildingCost": 0,
 		"wonderCost": 0,
@@ -196,7 +196,7 @@
 		]
 	},
 	{
-		"columnNumber": 5,
+		"columnNumber": 6,
 		"era": "Medieval era",
 		"techCost": 275,
 		"buildingCost": 120,
@@ -231,7 +231,7 @@
 		]
 	},
 	{
-		"columnNumber": 6,
+		"columnNumber": 7,
 		"era": "Medieval era",
 		"techCost": 485,
 		"buildingCost": 160,
@@ -279,7 +279,7 @@
 		]
 	},
 	{
-		"columnNumber": 7,
+		"columnNumber": 8,
 		"era": "Renaissance era",
 		"techCost": 780,
 		"buildingCost": 200,
@@ -319,7 +319,7 @@
 		]
 	},
 	{
-		"columnNumber": 8,
+		"columnNumber": 9,
 		"era": "Renaissance era",
 		"techCost": 1150,
 		"buildingCost": 250,
