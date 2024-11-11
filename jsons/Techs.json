@@ -183,7 +183,6 @@
 	{
                 "columnNumber": 6,
 		"era": "Classical era",
-		"techCost": 0,
 		"buildingCost": 0,
 		"wonderCost": 0,
 		"techs": [
@@ -192,6 +191,7 @@
 			       "row": 6,
 			       "prerequisites": ["Engineering","Philosophy","Drama and Poetry","Banking","Currency","Iron Working"],
 		               "uniques": ["Only available <after discovering [Theology]>", "Blank tech for mod compatibility"],
+			       "quotes": "No",
 			}
 		]
 	},
