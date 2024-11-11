@@ -185,6 +185,7 @@
 		"era": "Classical era",
 		"techCost": 0,
 		"buildingCost": 0,
+		"wonderCost": 0,
 		"techs": [
 			{
 	                       "name": "No further",
