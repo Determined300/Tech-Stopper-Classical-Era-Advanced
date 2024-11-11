@@ -183,12 +183,11 @@
 	{
                 "columnNumber": 6,
 		"era": "Classical era",
-		"techCost": 9999999999,
-		"buildingCost": 9999999999,
-		"wonderCost": 9999999999,
+		"techCost": 0,
+		"buildingCost": 0,
 		"techs": [
 			{
-	                       "name": "No further.",
+	                       "name": "No further",
 			       "row": 6,
 			       "prerequisites": ["Engineering","Philosophy","Drama and Poetry","Banking","Currency","Iron Working"],
 		               "uniques": ["Only available <after discovering [Theology]>", "Blank tech for mod compatibility"],
@@ -205,27 +204,27 @@
 			{
 				"name": "Theology",
 				"row": 2,
-				"prerequisites": ["Philosophy", "Drama and Poetry"],
+				"prerequisites": ["No Further"],
 				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
 			},
 			{
 				"name": "Civil Service",
 				"row": 5,
-				"prerequisites": ["Currency","Horseback Riding","Drama and Poetry"],
+				"prerequisites": ["No Further"],
 				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
 			},
 			{
 				"name": "Guilds",
 				"row": 7,
-				"prerequisites": ["Currency"],
+				"prerequisites": ["No Further"],
 				"uniques": ["Enables conversion of city production to [Gold]"],
 				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
 			},
 			{
 				"name": "Metal Casting",
 				"row": 9,
-				"prerequisites": ["Engineering","Iron Working"],
+				"prerequisites": ["No Further"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			}
 		]
