@@ -191,7 +191,7 @@
 			       "row": 6,
 			       "prerequisites": ["Engineering","Philosophy","Drama and Poetry","Banking","Currency","Iron Working"],
 		               "uniques": ["Only available <after discovering [Theology]>", "Blank tech for mod compatibility"],
-			       "quotes": "No",
+			       "quote": "No."
 			}
 		]
 	},
