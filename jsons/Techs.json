@@ -299,12 +299,6 @@
 				"quote": "'Their rising all at once was as the sound of thunder heard remote' - Milton"
 			},
 			{
-				"name": "Banking",
-				"row": 6,
-				"prerequisites": ["Chivalry", "Education"],
-				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
-			},
-			{
 				"name": "Printing Press",
 				"row": 8,
 				"prerequisites": ["Machinery","Physics","Chivalry"],
@@ -335,13 +329,13 @@
 			{
 				"name": "Architecture",
 				"row": 4,
-				"prerequisites": ["Acoustics","Banking"],
+				"prerequisites": ["Acoustics"],
 				"quote": "'Architecture begins where engineering ends.' - Walter Gropius"
 			},
 			{
 				"name": "Economics",
 				"row": 6,
-				"prerequisites": ["Banking","Printing Press"],
+				"prerequisites": ["Printing Press"],
 				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
 			},
 			{
