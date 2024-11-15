@@ -22,7 +22,7 @@
 		           "uniques": ["Can enter ocean tiles"],
 		           "upgradesTo": "Galleas",
 		           "obsoleteTech": "Astronomy",
-		           "attackSound",: "arrow",
+		           "attackSound": "arrow",
 		           
 	 },
 ]
