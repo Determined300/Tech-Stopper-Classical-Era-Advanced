@@ -20,7 +20,7 @@
 		           "cost": 48,
 		           "requiredTech": "Sailing",
 		           "uniques": ["Can enter ocean tiles"],
-		           "upgradesTo": "Galleas",
+		           "upgradesTo": "Galleass",
 		           "obsoleteTech": "Astronomy",
 		           "attackSound": "arrow",
 		           
