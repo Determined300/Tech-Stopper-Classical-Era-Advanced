@@ -14,7 +14,8 @@
 	 {
 			   "name": "Dromon",
 			   "unitType": "Ranged Water",
-			   "movement": 4,
+			   "uniqueTo": "Byzantine",
+		           "movement": 4,
 			   "strength": 8,
 		           "rangedStrength": 10,
 		           "cost": 48,
