@@ -15,9 +15,13 @@
 			   "name": "Dromon",
 			   "unitType": "Ranged Water",
 			   "movement": 4,
-			   "Strength": 12,
-	 
-	 
-	 
+			   "strength": 8,
+		           "rangedStrength": 11,
+		           "cost": 48,
+		           "requiredTech": "Sailing",
+		           "uniques": ["Can enter ocean tiles"],
+		           "upgradesTo": "Galleas",
+		           "obsoleteTech": "Astronomy",
+		           
 	 },
 ]
