@@ -10,5 +10,14 @@
 		           "upgradesTo": "Caravel",
 		           "obsoleteTech": "Astronomy",
 		           "attackSound": "nonmetalhit",
-         },
+	           },
+	           {
+			   "name": "Dromon",
+			   "unitType": "Ranged Water",
+			   "movement": 4,
+			   "Strength": 12,
+	 
+	 
+	 
+	 },
 ]
