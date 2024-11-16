@@ -20,7 +20,7 @@
                 "name": "Aristocracy",
                 "uniques": [
                     "[+15]% Production when constructing [All] wonders [in all cities]",
-                    "[+1 Happiness] per [3] population [in all cities]"
+                    "[+2 Happiness] per [3] population [in all cities]"
                 ],
                 "row": 1,
                 "column": 1
@@ -55,7 +55,7 @@
             {
                 "name": "Monarchy",
                 "uniques": [
-                    "[+2 Gold, +1 Happiness] per [2] population [in capital]"
+                    "[+1 Gold, +2 Happiness] per [2] population [in capital]"
                 ],
                 "requires": ["Legalism"],
                 "row": 2,
