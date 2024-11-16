@@ -35,7 +35,7 @@
 		           "strength": 16,
 		           "cost": 75,
 		           "requiredTech": "Horseback Riding",
-		           "promotions": "Heavy Charge",
+		           "promotions": ["Heavy Charge"],
 		           "uniques": ["Can move after attacking","[-20]% Strength <vs cities>"],
 		           "upgradesTo": "Knight",
 		           "requiredResource": "Horses",
