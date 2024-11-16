@@ -19,12 +19,20 @@
 		           "movement": 4,
 			   "strength": 8,
 		           "rangedStrength": 10,
-		           "cost": 48,
+		           "cost": 50,
 		           "requiredTech": "Sailing",
 		           "uniques": ["[+50]% Strength <vs [Water] units>","Can enter ocean tiles"],
 		           "upgradesTo": "Galleass",
 		           "obsoleteTech": "Compass",
 		           "attackSound": "arrow",
+	},
+	{
+		           "name": "Cataphract",
+		           "unitType": "Mounted",
+		           "uniqueTo": "Byzantium",
+		           "replaces": "Horseman",
+		           "movement": 4,
+		           "strength": 16,
 		           
 	 },
 ]
