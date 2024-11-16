@@ -33,6 +33,11 @@
 		           "replaces": "Horseman",
 		           "movement": 4,
 		           "strength": 16,
-		           
+		           "cost": 70,
+		           "requiredTech": "Horseback Riding",
+		           "uniques": ["Can move after attacking","[-20]% Strength <vs cities>","Defensive terrain bonus"],
+		           "upgradesTo": "Knight",
+		           "obsoleteTech": "",
+		           "attackSound": "horse",
 	 },
 ]
