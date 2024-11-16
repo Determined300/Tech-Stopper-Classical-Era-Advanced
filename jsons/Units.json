@@ -37,7 +37,7 @@
 		           "requiredTech": "Horseback Riding",
 		           "uniques": ["Can move after attacking","[-20]% Strength <vs cities>","Defensive terrain bonus"],
 		           "upgradesTo": "Knight",
-		           "requiredResources": "Horses",
+		           "requiredResource": "Horses",
 		           "obsoleteTech": "Chivalry",
 		           "attackSound": "horse",
 	 },
