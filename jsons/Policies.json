@@ -122,11 +122,7 @@
             },
             {
                 "name": "Liberty Complete",
-                "uniques": ["Free Great Person", "Get the leader title of [Consul [leaderName]]"
-                
-                
-                
-                ]
+                "uniques": ["Free Great Person", "Get the leader title of [Consul [leaderName]]"]
             }
         ]
     }
