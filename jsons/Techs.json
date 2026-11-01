@@ -192,7 +192,7 @@
 	               "name": "No further",
 			       "row": 6,
 			       "prerequisites": ["Engineering","Philosophy","Drama and Poetry","Banking","Currency","Iron Working"],
-		           "uniques": ["Enables Defensive pacts", "Only available <after discovering [Theology]>", "Blank tech for mod compatibility"],
+		           "uniques": ["Only available <after discovering [Theology]>", "Blank tech for mod compatibility"],
 			       "quote": "No."
 			}
 		]
