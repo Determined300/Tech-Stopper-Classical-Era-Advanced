@@ -79,7 +79,7 @@
                "Domination": 10,
                "Scientific": 10
             },
-               "uniques": ["[+1 Culture] [in all cities]"],
+               "uniques": ["Enables establisment of embassies", "[+1 Culture] [in all cities]"],
                "policies": [
             {
                "name": "Republic",
@@ -122,7 +122,7 @@
             },
             {
                 "name": "Liberty Complete",
-                "uniques": ["Free Great Person", "Get the leader title of [Consul [leaderName]]"]
+                "uniques": ["Free Great Person", "Enables Defensive pacts", "Get the leader title of [Consul [leaderName]]"]
             }
         ]
     }
