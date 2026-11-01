@@ -119,14 +119,13 @@
 				"name": "Horseback Riding",
 				"row": 5,
 				"prerequisites": ["Trapping","The Wheel"],
-				"uniques": ["Enables Defensive pacts"],
+				"uniques": ["Enables Open Borders agreements","Enables Defensive pacts"],
 				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
 			},
 			{
 				"name": "Mathematics",
 				"row": 7,
 				"prerequisites": ["The Wheel"],
-				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'Mathematics is the gate and key to the sciences.' - Roger Bacon"
 			},
 			{
@@ -194,7 +193,7 @@
 	               "name": "No further",
 			       "row": 6,
 			       "prerequisites": ["Engineering","Philosophy","Drama and Poetry","Banking","Currency","Iron Working"],
-		           "uniques": ["Can be continually researched"],
+		           "uniques": ["Only available <after researching [Theology]"],
 			       "quote": "Yes."
 			}
 		]
@@ -222,7 +221,6 @@
 				"name": "Guilds",
 				"row": 7,
 				"prerequisites": ["No further"],
-				"uniques": ["Enables conversion of city production to [Gold]"],
 				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
 			},
 			{
