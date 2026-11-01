@@ -119,7 +119,7 @@
 				"name": "Horseback Riding",
 				"row": 5,
 				"prerequisites": ["Trapping","The Wheel"],
-				"uniques": ["Enables Open Borders agreements","Enables Defensive pacts"],
+				"uniques": ["Enables Open Borders agreements","Enables Defensive Pacts"],
 				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
 			},
 			{
