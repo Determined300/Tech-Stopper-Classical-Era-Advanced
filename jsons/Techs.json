@@ -118,7 +118,6 @@
 				"name": "Horseback Riding",
 				"row": 5,
 				"prerequisites": ["Trapping","The Wheel"],
-				"uniques": ["Enables establisment of embassies"],
 				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
 			},
 			{
@@ -190,10 +189,10 @@
 		"wonderCost": 0,
 		"techs": [
 			{
-	                       "name": "No further",
+	               "name": "No further",
 			       "row": 6,
 			       "prerequisites": ["Engineering","Philosophy","Drama and Poetry","Banking","Currency","Iron Working"],
-		               "uniques": ["Enables Defensive pacts", "Only available <after discovering [Theology]>", "Blank tech for mod compatibility"],
+		           "uniques": ["Enables Defensive pacts", "Only available <after discovering [Theology]>", "Blank tech for mod compatibility"],
 			       "quote": "No."
 			}
 		]
