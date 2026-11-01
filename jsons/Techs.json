@@ -71,6 +71,7 @@
 				"name": "Writing",
 				"row": 3,
 				"prerequisites": ["Pottery"],
+				"uniques": ["Enables establishment of embassies"],
 				"quote": "'He who destroys a good book kills reason itself.' - John Milton"
 			},
 			{
@@ -118,6 +119,7 @@
 				"name": "Horseback Riding",
 				"row": 5,
 				"prerequisites": ["Trapping","The Wheel"],
+				"uniques": ["Enables Defensive pacts"],
 				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
 			},
 			{
@@ -192,8 +194,8 @@
 	               "name": "No further",
 			       "row": 6,
 			       "prerequisites": ["Engineering","Philosophy","Drama and Poetry","Banking","Currency","Iron Working"],
-		           "uniques": ["Only available <after discovering [Theology]>", "Blank tech for mod compatibility"],
-			       "quote": "No."
+		           "uniques": ["Can be continually researched"],
+			       "quote": "Yes."
 			}
 		]
 	},
