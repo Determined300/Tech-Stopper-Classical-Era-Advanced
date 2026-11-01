@@ -118,13 +118,14 @@
 				"name": "Horseback Riding",
 				"row": 5,
 				"prerequisites": ["Trapping","The Wheel"],
-				"uniques": ["Enables Open Borders agreements"],
+				"uniques": ["Enables establisment of embassies"],
 				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
 			},
 			{
 				"name": "Mathematics",
 				"row": 7,
 				"prerequisites": ["The Wheel"],
+				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'Mathematics is the gate and key to the sciences.' - Roger Bacon"
 			},
 			{
@@ -213,7 +214,6 @@
 				"name": "Civil Service",
 				"row": 5,
 				"prerequisites": ["No further"],
-				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
 			},
 			{
