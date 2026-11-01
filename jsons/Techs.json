@@ -193,7 +193,7 @@
 	               "name": "No further",
 			       "row": 6,
 			       "prerequisites": ["Engineering","Philosophy","Drama and Poetry","Banking","Currency","Iron Working"],
-		           "uniques": ["Only available <after researching [Theology]"],
+		           "uniques": ["Only available <after researching [Theology]>"],
 			       "quote": "Yes."
 			}
 		]
